@@ -1,0 +1,28 @@
+name: HamperGiftBaskets.com
+favicon: null
+layout_spectrum: 0.25375283719040453
+typography_spectrum: 0.7156500373966992
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9094382924959064
+  lightness: 0.10114681557752192
+  saturation: 0.29806757089681923
+  rhythmicContrast: 0.5733437223825604
+purpose: []
